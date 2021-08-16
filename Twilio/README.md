@@ -7,3 +7,9 @@ The following services are provided:
  - Send a SMS message.
  - Process callback for incoming SMS message.
  - Process callback for status updates for a sent SMS message
+
+### How to Run
+1. Install python if not done already
+2. Install the requirements : `pip install -r requirements.txt`
+3. Run the app : `python app.py`
+4. Test on Postman using `collection.json`
